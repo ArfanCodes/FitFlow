@@ -7,6 +7,8 @@
 A focused fitness onboarding experience built with Expo and React Native.
 FitFlow guides users through a clean, step-by-step profile setup with local persistence and cloud synchronization.
 
+[![Latest Release](https://img.shields.io/badge/Latest_Release-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/ArfanCodes/FitFlow/releases/tag/v1%2C0.0)
+
 [![Expo SDK](https://img.shields.io/badge/Expo_SDK-54-black?style=flat-square&logo=expo)](https://expo.dev)
 [![React Native](https://img.shields.io/badge/React_Native-0.81-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
