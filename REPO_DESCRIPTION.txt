@@ -1,1 +1,0 @@
-FitFlow is a guided fitness onboarding app built with Expo and React Native. It collects a user's profile step by step, saves progress locally, syncs it to Firebase, and lets the user review everything before submitting.
